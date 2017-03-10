@@ -7,5 +7,6 @@ namespace ServiceStationAngularJS
 {
     public class Class1
     {
+        string a;
     }
 }
